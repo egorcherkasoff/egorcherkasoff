@@ -1,4 +1,4 @@
-1# Welcome to my profile!
+# Welcome to my profile!
 
 ![Egor Cherkasov's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorcherkasoff&show_icons=true&theme=dracula&hide_border=true&card_width=495)
 
